@@ -15,8 +15,9 @@ We utilize a publicly available multimodal dataset containing annotated tweets f
 
 1. **Download** the dataset archive:
 
-   ```
-   https://crisisnlp.qcri.org/data/crisismmd/CrisisMMD_v2.0.tar.gz
+  ```bash
+   wget https://crisisnlp.qcri.org/data/crisismmd/CrisisMMD_v2.0.tar.gz
+
    ```
 
 2. **Extract and organize** the files:
